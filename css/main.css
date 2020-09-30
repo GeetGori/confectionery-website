@@ -107,6 +107,7 @@ nav li a {
   color: #fff;
   display: block;
   padding: .2rem;
+  font-size: large;
 }
 
 nav a:hover,
